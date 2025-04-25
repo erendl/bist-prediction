@@ -1,4 +1,4 @@
-# Bist Prediction 
+# BIST Prediction 
 
 Bist Prediction is a machine learning-based project that aims to forecast the future closing prices of stocks listed on Borsa İstanbul (BIST). It leverages two different time series prediction models:
 
