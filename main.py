@@ -181,7 +181,7 @@ try:
         st.write(f"Predicted Next Interval Closing Price: {next_interval_pred_arima:.2f} ₺")        
         
 
-        #grid_search_st(X_train, y_train) shows best params on st
+        #grid_search_st(X_train, y_train) shows best params on streamlit
         
     with col3:
         ticker = yf.Ticker(selected_stock + ".IS")
