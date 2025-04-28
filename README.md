@@ -26,13 +26,14 @@ The project is presented with a Streamlit dashboard for easy interaction and vis
 1. Clone the repository:
 
    git clone https://github.com/erendl/bist-prediction.git
+   
    cd bist-prediction
 
-2. Install the required dependencies:
+3. Install the required dependencies:
 
    pip install -r requirements.txt
 
-3. Run the app:
+4. Run the app:
 
    streamlit run main.py
 
