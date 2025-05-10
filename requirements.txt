@@ -57,4 +57,4 @@ tzdata==2025.2
 urllib3==2.4.0
 wheel==0.45.1
 xgboost==3.0.0
-yfinance==0.2.55
+yfinance==0.2.59
