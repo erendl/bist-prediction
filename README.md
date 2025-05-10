@@ -37,6 +37,10 @@ The project is presented with a Streamlit dashboard for easy interaction and vis
 
    streamlit run main.py
 
+⚠ If you get "yfinance.exceptions.YFRateLimitError: Too Many Requests. Rate limited. Try after a while." error try:
+
+   pip install --upgrade yfinance
+
 ---
 
 ## File Structure
